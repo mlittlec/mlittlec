@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
+
 <!--
 **mlittlec/mlittlec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
