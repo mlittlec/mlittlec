@@ -1,5 +1,13 @@
+*******
+
 ### Hi there 👋
 
+
+*******************
+
+### 💬 Miscellany
+
+#### Some Statistical data
 <br/>
 
 [![mlittlec's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlittlec&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,6 +24,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
 ![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
+
+<br/>
 
 <!--
 **mlittlec/mlittlec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
