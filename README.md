@@ -16,10 +16,13 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlittlec&theme=dark)](https://git.io/streak-stats)
 
+
 <br/>
 
-![`mlittlec@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlittlec&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
 
+<br/>
 
 <!--
 **mlittlec/mlittlec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,12 +47,11 @@ Here are a couple of websites outlining stuff you can do in this file:
 
 
 These don't appear to be working currently: 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
-![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
 
 <br/>
+
+![`mlittlec@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlittlec&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+
 
 
 -->
