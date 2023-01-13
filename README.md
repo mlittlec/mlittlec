@@ -20,14 +20,6 @@
 
 ![`mlittlec@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlittlec&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
 
-<!--
-<br/>
-
-![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
-![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
-
-<br/>
--->
 
 <!--
 **mlittlec/mlittlec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,5 +41,15 @@ Here are a couple of websites outlining stuff you can do in this file:
 * https://javascript.plainenglish.io/how-to-create-an-awesome-github-profile-readme-a474d5b45645
 * https://github-readme-stats.vercel.app/api?username=mlittlec&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true
 * https://github.com/anuraghazra/github-readme-stats
+
+
+These don't appear to be working currently: 
+<br/>
+
+![](https://komarev.com/ghpvc/?username=mlittlec&color=lightgrey)
+![](https://visitor-badge.glitch.me/badge?page_id=mlittlec.mlittlec)
+
+<br/>
+
 
 -->
