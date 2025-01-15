@@ -10,8 +10,9 @@
 #### Some Statistical data
 
 <br/>
-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlittlec&theme=dark)](https://git.io/streak-stats)
+<!--
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mlittlec&theme=dark)](https://git.io/streak-stats)
+-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mlittlec&theme=dark)](https://git.io/streak-stats)
 
 <br/>
