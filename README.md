@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+*while (!sleep) {learn();}*
 
 *******************
 
